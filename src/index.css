@@ -1,0 +1,21 @@
+body {
+  margin: 0;
+  padding: 0;
+  font-family: sans-serif;
+}
+
+.blue{
+  border: 1px solid blue;
+  width: 100px;
+  height: 100px;
+}
+.red{
+  border: 1px solid red;
+  width: 100px;
+  height: 100px;
+}
+.green{
+  border: 1px solid green;
+  width: 100px;
+  height: 100px;
+}
